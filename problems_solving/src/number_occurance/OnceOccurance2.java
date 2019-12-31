@@ -6,6 +6,7 @@ public class OnceOccurance2 {
         System.out.println(appearOnce(new int[]{7,3,5,4,5,3,4}));
     }
 
+    // XOR approach
     public static int appearOnce(int[] numbers) {
 
         int oneTimeAppearance = numbers[0];
