@@ -12,7 +12,7 @@ public class BinaryTree {
      root pointer which the caller should then use
      (the standard trick to avoid using reference
      parameters). */
-    Node insert(Node node, int data) {
+    public Node insert(Node node, int data) {
 
         /* 1. If the tree is empty, return a new,
          single node */
