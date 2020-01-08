@@ -1,3 +1,5 @@
+package Singleton;
+
 public class Singleton {
 
   private final static  Singleton myInstance = null;
