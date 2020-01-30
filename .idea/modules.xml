@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/hackerRank/hackerRank.iml" filepath="$PROJECT_DIR$/hackerRank/hackerRank.iml" />
       <module fileurl="file://$PROJECT_DIR$/problem_solving.iml" filepath="$PROJECT_DIR$/problem_solving.iml" />
       <module fileurl="file://$PROJECT_DIR$/problems_solving/problems_solving.iml" filepath="$PROJECT_DIR$/problems_solving/problems_solving.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core_java/test1.iml" filepath="$PROJECT_DIR$/core_java/test1.iml" />
     </modules>
   </component>
 </project>
