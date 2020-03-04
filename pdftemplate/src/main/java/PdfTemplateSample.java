@@ -37,7 +37,7 @@ public class PdfTemplateSample  extends PdfPageEventHelper {
             header.getDefaultCell().setBorderColor(BaseColor.LIGHT_GRAY);
 
             // add image
-            Image logo = Image.getInstance(PdfTemplate.class.getResource("/memorynotfound-logo.jpg"));
+            Image logo = Image.getInstance(PdfTemplate.class.getResource("/logo.png"));
             header.addCell(logo);
 
             // add text
