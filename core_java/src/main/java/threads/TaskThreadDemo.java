@@ -48,8 +48,9 @@ private int times;
      @Override
      public void run() {
 
-         for(int i = 0 ; i<lastNum; i++){
+         for(int i = 1 ; i<lastNum; i++){
              System.out.print(i + " ");
+             Thread.yield();
          }
 
      }
