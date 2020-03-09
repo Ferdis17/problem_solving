@@ -4,9 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/design_patterns/design_patterns.iml" filepath="$PROJECT_DIR$/design_patterns/design_patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/hackerRank/hackerRank.iml" filepath="$PROJECT_DIR$/hackerRank/hackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pdftemplate/pdftemplate.iml" filepath="$PROJECT_DIR$/pdftemplate/pdftemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/problem_solving.iml" filepath="$PROJECT_DIR$/problem_solving.iml" />
       <module fileurl="file://$PROJECT_DIR$/problems_solving/problems_solving.iml" filepath="$PROJECT_DIR$/problems_solving/problems_solving.iml" />
-      <module fileurl="file://$PROJECT_DIR$/core_java/test1.iml" filepath="$PROJECT_DIR$/core_java/test1.iml" />
     </modules>
   </component>
 </project>
